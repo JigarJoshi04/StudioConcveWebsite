@@ -472,8 +472,8 @@ h2#why-title {
 
 .dress2 {
     position: fixed;
-    left: 67.25%;
-    top: 26%;
+    left: 68.25%;
+    top: 12%;
     width: 15%;
     z-index: 5;
 }
@@ -695,6 +695,10 @@ img#parter_17 {
     background: #4b87f4
 }
 
+#howDoWeKnow{
+    background: #4b87f4
+}
+
 #bank article {
     width: 80%;
     margin: 5% auto 0;
@@ -779,10 +783,10 @@ img#parter_17 {
     transform: translateX(-50%);
 }
 
-#bank h4#predict {
+#howDoWeKnow p#predict {
     margin-top: 0;
     position: absolute;
-    left: 26%;
+    left: 35%;
     top: 88%;
 }
 
